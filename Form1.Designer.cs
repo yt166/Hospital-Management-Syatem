@@ -30,6 +30,7 @@
         {
             btnLogin = new Button();
             btnRegister = new Button();
+            lblX = new Label();
             SuspendLayout();
             // 
             // btnLogin
@@ -52,6 +53,18 @@
             btnRegister.UseVisualStyleBackColor = true;
             btnRegister.Click += btnRegister_Click;
             // 
+            // lblX
+            // 
+            lblX.AutoSize = true;
+            lblX.Font = new Font("Tahoma", 18F, FontStyle.Regular, GraphicsUnit.Point);
+            lblX.ForeColor = SystemColors.ButtonFace;
+            lblX.Location = new Point(593, 9);
+            lblX.Name = "lblX";
+            lblX.Size = new Size(32, 36);
+            lblX.TabIndex = 2;
+            lblX.Text = "X";
+            lblX.Click += lblX_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -60,16 +73,22 @@
             BackgroundImage = Properties.Resources.download;
             BackgroundImageLayout = ImageLayout.Center;
             ClientSize = new Size(637, 562);
+            Controls.Add(lblX);
             Controls.Add(btnRegister);
             Controls.Add(btnLogin);
+            FormBorderStyle = FormBorderStyle.None;
             Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Medi Care";
+            Load += Form1_Load;
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
         private Button btnLogin;
         private Button btnRegister;
+        private Label lblX;
     }
 }

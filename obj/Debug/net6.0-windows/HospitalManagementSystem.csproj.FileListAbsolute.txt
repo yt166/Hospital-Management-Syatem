@@ -17,4 +17,10 @@ E:\Mora BIT\Sem 2\HospitalManagementSystem\obj\Debug\net6.0-windows\HospitalMana
 E:\Mora BIT\Sem 2\HospitalManagementSystem\obj\Debug\net6.0-windows\HospitalManagementSystem.genruntimeconfig.cache
 E:\Mora BIT\Sem 2\HospitalManagementSystem\obj\Debug\net6.0-windows\ref\HospitalManagementSystem.dll
 E:\Mora BIT\Sem 2\HospitalManagementSystem\obj\Debug\net6.0-windows\HospitalManagementSystem.FormRegister.resources
-E:\Mora BIT\Sem 2\HospitalManagementSystem\obj\Debug\net6.0-windows\HospitalManagementSystem.Form5.resources
+E:\Mora BIT\Sem 2\HospitalManagementSystem\obj\Debug\net6.0-windows\HospitalManagementSystem.FormDashboardAdmin.resources
+E:\Mora BIT\Sem 2\HospitalManagementSystem\obj\Debug\net6.0-windows\HospitalManagementSystem.FormManageStaff.resources
+E:\Mora BIT\Sem 2\HospitalManagementSystem\obj\Debug\net6.0-windows\HospitalManagementSystem.Form3.resources
+E:\Mora BIT\Sem 2\HospitalManagementSystem\obj\Debug\net6.0-windows\HospitalManagementSystem.FormPatientDashBoard.resources
+E:\Mora BIT\Sem 2\HospitalManagementSystem\obj\Debug\net6.0-windows\HospitalManagementSystem.Form6.resources
+E:\Mora BIT\Sem 2\HospitalManagementSystem\obj\Debug\net6.0-windows\HospitalManagementSystem.FormManagePatients.resources
+E:\Mora BIT\Sem 2\HospitalManagementSystem\obj\Debug\net6.0-windows\HospitalManagementSystem.FormManageAppointments.resources
