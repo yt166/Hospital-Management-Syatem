@@ -1,4 +1,4 @@
-namespace HospitalManagementSystem
+namespace HMSystem
 {
     internal static class Program
     {
